@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'FrontMascotas';
+  myimage:string="assets/img/logo-petland.png"
 }
+
